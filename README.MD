@@ -53,6 +53,13 @@ Você pode personalizar o site alterando as imagens e textos para adaptá-lo às
 ## Acesso em
 [Clique aqui](https://arthurzkrause.github.io/Patada-petshop/)
 
-## Créditos
+## Ajustes Realizados
+Foram necessários ajustes significativos para atender aos requisitos e melhorar a usabilidade do sistema. Devido à dificuldade em certas áreas e tempo ínfimo, algumas funcionalidades podem não estar totalmente alinhadas com a prototipagem inicial. No entanto, continuarei melhorando o projeto para refletir de forma mais fiel as especificações originais.
 
-Site desenvolvido por **Arthur zKrause**.
+## Próximos Passos
+Como parte do processo de melhoria contínua deste projeto, os próximos passos incluem:
+
+* Refatoração do código para melhorar a estrutura e a legibilidade.
+* Implementação de funcionalidades adicionais conforme especificações originais como carrinho de compras
+* Ajustes de design para alinhar mais de perto com a prototipagem inicial.
+* Testes adicionais para garantir a estabilidade e a funcionalidade do sistema.
