@@ -50,7 +50,7 @@ Este é o site da **PATADA**, uma loja virtual voltada para produtos e serviços
 
 Você pode personalizar o site alterando as imagens e textos para adaptá-lo às suas necessidades. Basta substituir as imagens na pasta `imagens/` e editar o conteúdo dos arquivos HTML e CSS conforme desejado.
 
-##Acesso em
+## Acesso em
 [Clique aqui](https://arthurzkrause.github.io/Patada-petshop/)
 
 ## Créditos
